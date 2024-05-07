@@ -1,16 +1,5 @@
-// Aplikasi Enkirpsi Dekripsi
-String tugas = 'Aplikasi ini dibuat guna memenuhi tugas mata kuliah Keamanan Informasi';
-String nama = 'Qathrun Nada Annaqiya';
-String npm = '227006100';
-String kelas = 'D';
-
-
-String aplikasi = '''
-# Aplikasi Enkripsi Dekripsi
-<p>$tugas</p>
-<p>Nama : $nama</p>
-<p>NPM : $npm</p>
-<p>Kelas : $kelas</p>
-''';
-
-print(aplikasi);
+## Aplikasi Enkripsi Dekripsi
+#### Aplikasi ini dibuat guna untuk memenuhi tugas dari mata kuliah Keamanan Informasi
+<p>Nama : Qathrun Nada Annaqiya</p>
+<p>NPM : 227006100</p>
+<p>Kelas : D</p>
